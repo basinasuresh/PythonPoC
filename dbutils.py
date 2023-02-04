@@ -1,1 +1,1 @@
-# This is to write database utilities.
+This is utlis file for db operations
